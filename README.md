@@ -68,13 +68,6 @@ The Streamlit dashboard allows users to:
 - View graphical analytics
 - Explore ticket distribution charts
 
----
-
-## 📸 Screenshots
-
-(Add screenshots here)
-
----
 
 ## ▶ How to Run
 
